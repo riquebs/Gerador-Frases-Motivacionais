@@ -26,7 +26,7 @@ const respostas = [
   "É muito fácil conhecer palavras de motivação, o difícil é aplicá-las na sua vida.",
   "Deixe que as experiências de vida contabilizem a sua idade.",
 "Busque multiplicar sorrisos e subtrair tristezas em todos os dias da sua vida.",
-"A vida não é um conto de fadas, mas é repleta de pequenos milagres e conquistas. Basta parar para enxergar."',
+"A vida não é um conto de fadas, mas é repleta de pequenos milagres e conquistas. Basta parar para enxergar.",
 "Se você deseja alcançar a grandeza, haja como se fosse a pessoa mais confiante do mundo.",
 "Se você quiser que as coisas mudem, primeiro você tem que mudar.",
 "A chave do sucesso é começar antes de estar pronto.",
